@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "유튜브 동영상 삽입하기"
+categories: 노래 소개
+last_modified_at: 2021-06-17
 ---
 ### 01. 닫힌 엔딩_숀
 {% include video id="K9dJYwIhBYM" provider="youtube" %}
